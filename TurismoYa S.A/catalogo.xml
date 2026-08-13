@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalogo version="1.0" fecha="2026-08-13" empresa="TurismoYa S.A.">
+
+    <destino id="DAR001"> <!-- Código de destino Argentina: DAR -->
+        <nombre>Mar y ballenas</nombre>
+        <pais>Argentina</pais>
+        <localidades>Puerto Madryn, Chubut; Puerto Pirámides, Chubut;</localidades>
+        <imagen>imgdar-mar_y_ballenas.jpg</imagen>
+        <transporte>Bus semi-cama</transporte>
+        <precio moneda="usd">$1450</precio>
+        <precio moneda="ars">$3500000</precio> <!-- ¡¡ Buscar conversor de usd a ars según codificación automática !! -->
+        <duracion dias="6" noches="4"></duracion> <!-- ¡¡ COLOCAR FECHA DE SALIDA DEL SITIO !! -->
+        <descripcion>lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</descripcion> <!-- Colocar descripción atractiva para el destino a visitar -->
+    </destino>
+
+    <destino id="DAR002"> <!-- Código de destino Argentina: DAR -->
+        <nombre>Sierras pampeanas y cordobesas</nombre>
+        <pais>Argentina</pais>
+        <localidades>Merlo, San Luis; Mina Clavero, Córdoba</localidades>
+        <imagen>imgdar-sierras_pampeanas_y_cordobesas.jpg</imagen>
+        <transporte>Bus semi-cama</transporte>
+        <precio moneda="usd">$1210</precio>
+        <precio moneda="ars">$2900000</precio> <!-- ¡¡ Buscar conversor de usd a ars según codificación automática !! -->
+        <duracion dias="4" noches="3"></duracion> <!-- ¡¡ COLOCAR FECHA DE SALIDA DEL SITIO !! -->
+        <descripcion>lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</descripcion> <!-- Colocar descripción atractiva para el destino a visitar -->
+    </destino>
+
+    <destino id="DAR003"> <!-- Código de destino Argentina: DAR -->
+        <nombre>Cuna de Esteros y bañados</nombre>
+        <pais>Argentina</pais>
+        <localidades>Esteros del Iberá, Corrientes; Bañado La Estrella, Formosa</localidades>
+        <imagen>imgdar-cuna_de_esteros_y_bañados.jpg</imagen>
+        <transporte>Bus cama</transporte>
+        <precio moneda="usd">$1500</precio>
+        <precio moneda="ars">$3500000</precio> <!-- ¡¡ Buscar conversor de usd a ars según codificación automática !! -->
+        <duracion dias="6" noches="3"></duracion> <!-- ¡¡ COLOCAR FECHA DE SALIDA DEL SITIO !! -->
+        <descripcion>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</descripcion> <!-- Colocar descripción atractiva para el destino a visitar -->
+    </destino>
+
+    <destino id="DIT001"> <!-- Código de destino Internacional: DIT -->
+        <nombre>Escape al Caribe</nombre>
+        <pais>República Dominicana</pais>
+        <localidades>Punta Cana</localidades>
+        <imagen>imgdit-escape_al_caribe.jpg</imagen>
+        <transporte>Avión</transporte>
+        <precio moneda="usd">$3100</precio>
+        <precio moneda="ars">$7400000</precio> <!-- ¡¡ Buscar conversor de usd a ars según codificación automática !! -->
+        <duracion dias="6" noches="4"></duracion> <!-- ¡¡ COLOCAR FECHA DE SALIDA DEL SITIO !! -->
+        <descripcion>lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</descripcion> <!-- Colocar descripción atractiva para el destino a visitar -->
+    </destino>
+
+    <destino id="DIT002"> <!-- Código de destino Internacional: DIT -->
+        <nombre>Paisaje blanquecino</nombre>
+        <pais>Bolivia</pais>
+        <localidades>Salar de Uyuni, Departamento de Oruro</localidades>
+        <imagen>imgdit-paisaje_blanquecino.jpg</imagen>
+        <transporte>Avión</transporte>
+        <precio moneda="usd">$2130</precio>
+        <precio moneda="ars">$5100000</precio> <!-- ¡¡ Buscar conversor de usd a ars según codificación automática !! -->
+        <duracion dias="4" noches="3"></duracion> <!-- ¡¡ COLOCAR FECHA DE SALIDA DEL SITIO !! -->
+        <descripcion>lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</descripcion> <!-- Colocar descripción atractiva para el destino a visitar -->
+    </destino>
+</catalogo>
